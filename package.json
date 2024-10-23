@@ -1,0 +1,1 @@
+{"name":"financial-tracker","version":"1.0.0","description":"A financial tracking API","main":"index.js","scripts":{"start":"node index.js"},"dependencies":{"express":"^4.17.1","financial-tracker":"file:","sqlite3":"^5.0.0"}}
